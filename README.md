@@ -5,7 +5,6 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![ML](https://img.shields.io/badge/ML-Supervised%20Learning-green.svg)
 ![SDG](https://img.shields.io/badge/UN%20SDG-7-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ---
 
